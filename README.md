@@ -77,7 +77,7 @@ classification_report1 = classification_report(y_test,y_pred)
 print(classification_report1)
 
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
-
+```
 
 
 ## Output:
@@ -125,6 +125,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 # Prediction of LR:
 
 ![277169929-024f856e-41c9-44aa-874b-c778bf7f1c28](https://github.com/rajalakshmi8248/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/122860827/8aef5dd1-1d30-421e-bc82-bfa6ff084a14)
+```
 ```
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
